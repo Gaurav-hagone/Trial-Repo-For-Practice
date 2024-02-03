@@ -90,10 +90,16 @@ console.log(arr[6]);
 //Arithmetic Operators
 var a=100;
 var b=10;
+let c= 50;
 console.log("The value of a+b is",a+b);
 console.log("The value of a-b is",a-b);
 console.log("The value of a*b is",a*b);
 console.log("The value of a/b is",a/b);
+
+console.log("The value of a+c is",a+c);
+console.log("The value of a-c is",a-c);
+console.log("The value of a*c is",a*c);
+console.log("The value of a/c is",a/c);
 
 //Assignment Operators
 //ek baar assign value assign karne ke baad no need to write var while using c+=5 badme
