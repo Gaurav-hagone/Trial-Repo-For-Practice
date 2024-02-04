@@ -155,6 +155,13 @@ function avg(a,b){
 d=avg(45,25);
 console.log(d);
 
+// New function sum of two
+function sum(a,b){
+    c=(a+b);
+    return c;
+}
+console.log(5,9);
+
 
 //Conditionals in Javascript
 
