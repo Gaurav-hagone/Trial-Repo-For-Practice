@@ -1,2 +1,2 @@
 # Trial-Repo-For-Practice
-## On this repo we can excel up  your github skills
+## This is just a public Repo to practice GitHub skill where you can excel up  your github skills
