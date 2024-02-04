@@ -162,6 +162,13 @@ function sum(a,b){
 }
 console.log(5,9);
 
+// New function difference of two
+function diff(a,b){
+    c=(a-b);
+    return c;
+}
+console.log(57,9);
+
 
 //Conditionals in Javascript
 
