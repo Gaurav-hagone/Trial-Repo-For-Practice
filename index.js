@@ -1,4 +1,4 @@
-// 1.Ways to print in javascript
+// 1.Ways to print in javascript.
 // there i faced a problem in linking index.js to index.html as I did not comment out the above line so there was an error in linking as it was linked but not was showing the output 
 
 console.log("Hello world");
