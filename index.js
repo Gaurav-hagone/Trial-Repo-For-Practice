@@ -7,6 +7,12 @@ alert("Rom Rom Bhaiyyo");
 alert("Rom Rom Gaurav");
 document.write("this is document writer");
 
+console.log("Hello world");
+alert("me");
+alert("Rom Rom Bhaiyyo");
+alert("Rom Rom Gaurav");
+document.write("this is document writer");
+
 
 
 // 2.Javascript console api
