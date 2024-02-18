@@ -219,5 +219,22 @@ else{
 //ladder ends here
 
 
+let a=88;
+if (a > 75){
+    console.log("you are a old person now");
+}
+else if(a > 50){
+    console.log("you are a senior citizen now");
+} 
+else if (a > 35){
+    console.log("you need to eat calcium tablets now");
+}
+else if(a> 18){
+    console.log("you are jawan now");
+}
+else{
+    console.log("you are kid now");
+}
+
 
 
