@@ -2,6 +2,7 @@
 // there i faced a problem in linking index.js to index.html as I did not comment out the above line so there was an error in linking as it was linked but not was showing the output 
 
 console.log("Hello world");
+alert("Hello");
 alert("me");
 alert("Rom Rom Bhaiyyo");
 alert("Rom Rom Gaurav");
