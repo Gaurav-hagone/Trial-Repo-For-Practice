@@ -9,6 +9,7 @@ alert("Rom Rom Gaurav");
 document.write("this is document writer");
 
 console.log("Hello world");
+console.warn("abc");
 alert("me");
 alert("Rom Rom Bhaiyyo");
 alert("Rom Rom Gaurav");
