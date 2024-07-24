@@ -153,6 +153,7 @@ console.log(false || false);
 // NOT operator
 console.log(!true);
 console.log(!false);
+console.log(!null);
 
 //We will not learn Bitwise operators here we do not have its need here it will be helpful for those who works on Boolean algebra
 
@@ -237,6 +238,7 @@ else if(a> 18){
 else{
     console.log("you are kid now");
 }
+
 
 
 
